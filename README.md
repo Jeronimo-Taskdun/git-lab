@@ -15,4 +15,6 @@ Industrializamos genialidade. Integramos mentes humanas e artificiais em um ecos
 3. Confira logs/observabilidade básicos e testes.
 
 ## Contato
-- Site / LinkedIn / Workana: (links aqui)
+
+https://www.linkedin.com/in/jera-souto/
+
